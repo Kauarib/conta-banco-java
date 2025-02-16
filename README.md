@@ -64,4 +64,4 @@ Valor depositado: R$ 1500.75
 
 💡 **Dica:** Se depositar valores acima de **1 milhão**, favor compartilhar um pouco com a gente. 😂💸  
 
-Made with ❤️ by [Seu Nome]  
+Made by [Kauã Ribeiro]  
