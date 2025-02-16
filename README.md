@@ -18,7 +18,7 @@ Este é um pequeno programa em **Java** que simula um sistema bancário simples 
 1. Certifique-se de ter o **Java instalado** na sua máquina. ☕  
 2. Baixe ou clone este repositório:  
    ```sh
-   git clone https://github.com/Kauarib/conta-banco-java.git
+   git clone https://github.com/Kauarib/rbank.git
    ```
 3. Compile o programa no terminal:  
    ```sh
